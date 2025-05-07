@@ -1,6 +1,6 @@
 name: auto_direction
 description: This package changes the direction of a widget from ltr direction into rtl direction and vice versa based on the language of the text provided.
-version: 0.0.7
+version: 0.0.8
 homepage: https://github.com/AhmedAlYousif/auto_direction
 
 environment:
